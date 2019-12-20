@@ -1,0 +1,27 @@
+    nav, article, aside, footer section {
+      width: 900px;
+    }
+    hr {
+      clear: both;
+      border: 0;
+      height: 13px;
+      background-image: url('../img/hr.png');
+    }
+   
+   
+    section hr {
+      border-bottom: 1px solid #eee;
+      height: 0;
+    }
+    aside p {
+      width: 65%;
+      text-indent: 0;
+    }
+   
+    .recipe {
+      height: 260px;
+    }
+    
+    .print {
+      text-decoration: none;
+    }
